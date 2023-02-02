@@ -1,4 +1,4 @@
-# Fashion Recommendor System using Transfer Learning
+# Fashion Recommendor System using ResNet-50
 
 ## Problem Statement : To design an Image Search Engine application which recieves a product image and recommends similar products.
 
